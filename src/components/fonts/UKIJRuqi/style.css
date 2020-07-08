@@ -1,6 +1,6 @@
 /* font converted using font-converter.net. thank you! */
 @font-face {
-  font-family: "UKIJRuqi";
+  font-family: "UKIJ Ruqi";
   src: url("./fonts/UKIJRu.eot"); /* IE9 Compat Modes */
   src: url("./fonts/UKIJRu.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
     url("./fonts/UKIJRu.otf") format("opentype"), /* Open Type Font */
@@ -10,4 +10,9 @@
     url("./fonts/UKIJRu.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
+}
+
+.UKIJRuqi {
+  font-family: "UKIJ Ruqi";
+  font-size: 30px;
 }

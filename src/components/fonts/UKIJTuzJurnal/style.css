@@ -1,6 +1,6 @@
 /* font converted using font-converter.net. thank you! */
 @font-face {
-  font-family: "UKIJTuzJurnal";
+  font-family: "UKIJ Tuz Jurnal";
   src: url("./fonts/UKIJTuzJ.eot"); /* IE9 Compat Modes */
   src: url("./fonts/UKIJTuzJ.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
     url("./fonts/UKIJTuzJ.otf") format("opentype"), /* Open Type Font */
@@ -10,4 +10,9 @@
     url("./fonts/UKIJTuzJ.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
+}
+
+.UKIJTuzJurnal {
+  font-family: "UKIJ Tuz Jurnal";
+  font-size: 30px;
 }
