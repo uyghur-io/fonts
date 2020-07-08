@@ -1,13 +1,11 @@
 import React from 'react';
 import './App.css';
-import Test from './components/Test.js'
-import TestTwo from './components/TestTwo.js'
+import UkijTuz from './components/UkijTuz.js'
 
 function App() {
   return (
     <div className="App">
-      <Test />
-      <TestTwo />
+      <UkijTuz />
     </div>
   );
 }
