@@ -1,0 +1,17 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "UKIJ Tuz";
+  src: url("./fonts/UKIJTuz.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/UKIJTuz.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/UKIJTuz.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/UKIJTuz.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/UKIJTuz.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/UKIJTuz.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/UKIJTuz.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+p {
+  font-family: "UKIJ Tuz";
+}
