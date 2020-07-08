@@ -1,0 +1,18 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "UKIJ Basma";
+  src: url("./fonts/UKIJBasma.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/UKIJBasma.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/UKIJBasma.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/UKIJBasma.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/UKIJBasma.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/UKIJBasma.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/UKIJBasma.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+.UKIJBasma {
+  font-family: "UKIJ Basma";
+  font-size: 30px;
+}

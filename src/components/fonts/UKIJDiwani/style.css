@@ -1,0 +1,18 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "UKIJ Diwani";
+  src: url("./fonts/UKIJDi.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/UKIJDi.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/UKIJDi.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/UKIJDi.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/UKIJDi.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/UKIJDi.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/UKIJDi.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+.UKIJDiwani {
+  font-family: 'UKIJ Diwani';
+  font-size: 30px;
+}
