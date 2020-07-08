@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "UKIJSulus";
+  src: url("./fonts/UKIJSls.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/UKIJSls.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/UKIJSls.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/UKIJSls.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/UKIJSls.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/UKIJSls.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/UKIJSls.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,18 @@
+
+@font-face {
+  font-family: "UKIJ Arabic";
+  src: url("./fonts/UKIJArabic.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/UKIJArabic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/UKIJArabic.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/UKIJArabic.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/UKIJArabic.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/UKIJArabic.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/UKIJArabic.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+.UKIJArabic {
+  font-family: "UKIJ Arabic";
+  font-size: 30px;
+}

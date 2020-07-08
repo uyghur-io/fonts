@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "UKIJTuzQara";
+  src: url("./fonts/UKIJTuzQ.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/UKIJTuzQ.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/UKIJTuzQ.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/UKIJTuzQ.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/UKIJTuzQ.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/UKIJTuzQ.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/UKIJTuzQ.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

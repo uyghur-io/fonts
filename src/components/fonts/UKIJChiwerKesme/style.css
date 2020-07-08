@@ -1,0 +1,18 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "UKIJ Chiwer Kesme";
+  src: url("./fonts/UKIJChiK.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/UKIJChiK.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/UKIJChiK.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/UKIJChiK.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/UKIJChiK.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/UKIJChiK.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/UKIJChiK.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+.UKIJChiwerKesme {
+  font-family: "UKIJ Chiwer Kesme";
+  font-size: 30px;
+}

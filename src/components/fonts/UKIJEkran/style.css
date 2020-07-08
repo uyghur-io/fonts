@@ -1,0 +1,18 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "UKIJ Ekran";
+  src: url("./fonts/UKIJEkran.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/UKIJEkran.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/UKIJEkran.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/UKIJEkran.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/UKIJEkran.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/UKIJEkran.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/UKIJEkran.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+.UKIJEkran {
+  font-family: "UKIJ Ekran";
+  font-size: 30px;
+}

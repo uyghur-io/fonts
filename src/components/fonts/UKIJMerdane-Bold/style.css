@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "UKIJMerdane-Bold";
+  src: url("./fonts/UKIJMe.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/UKIJMe.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/UKIJMe.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/UKIJMe.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/UKIJMe.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/UKIJMe.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/UKIJMe.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

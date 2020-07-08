@@ -1,0 +1,18 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "UKIJ Jelliy";
+  src: url("./fonts/UKIJJe.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/UKIJJe.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/UKIJJe.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/UKIJJe.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/UKIJJe.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/UKIJJe.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/UKIJJe.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+.UKIJJelliy {
+  font-family: "UKIJ Jelliy";
+  font-size: 30px;
+}
