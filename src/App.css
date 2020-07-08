@@ -6,3 +6,8 @@
     background-color: azure;
 }
 
+.App > * {
+    border: 5px solid #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+}
