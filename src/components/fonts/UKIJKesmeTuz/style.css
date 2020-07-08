@@ -1,6 +1,6 @@
 /* font converted using font-converter.net. thank you! */
 @font-face {
-  font-family: "UKIJKesmeTuz";
+  font-family: "UKIJ Kesme Tuz";
   src: url("./fonts/UKIJKesmeTuz.eot"); /* IE9 Compat Modes */
   src: url("./fonts/UKIJKesmeTuz.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
     url("./fonts/UKIJKesmeTuz.otf") format("opentype"), /* Open Type Font */
@@ -10,4 +10,9 @@
     url("./fonts/UKIJKesmeTuz.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
+}
+
+.UKIJKesmeTuz {
+  font-family: "UKIJ Kesme Tuz";
+  font-size: 30px;
 }

@@ -1,6 +1,6 @@
 /* font converted using font-converter.net. thank you! */
 @font-face {
-  font-family: "UKIJZilwa";
+  font-family: "UKIJ Zilwa";
   src: url("./fonts/UKIJZilwa.eot"); /* IE9 Compat Modes */
   src: url("./fonts/UKIJZilwa.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
     url("./fonts/UKIJZilwa.otf") format("opentype"), /* Open Type Font */
@@ -10,4 +10,9 @@
     url("./fonts/UKIJZilwa.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
+}
+
+.UKIJZilwa {
+  font-family: "UKIJ Zilwa";
+  font-size: 30px;
 }
